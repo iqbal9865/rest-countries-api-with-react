@@ -1,0 +1,12 @@
+.country-info img{
+    height: 100px;
+    margin-top: 30px;
+}
+.country-info{
+    background-color:cadetblue;
+    border-radius: 10px;
+    text-align: center;
+    color: black;
+    margin: 20px;
+    /* padding: 1px ; */
+}
